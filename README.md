@@ -10,3 +10,4 @@
 <br><br>
 **=== ■ ALL .LBM IMAGE FILES ===** <br>
 <img width="1291" height="499" alt="ALL LBMs" src="https://github.com/user-attachments/assets/90e9749d-803c-4a86-94d2-d49175719628" />
+***The LBM to TGA converter is now ready; you can download the " lbm2tga " tool from the section with that title.***
