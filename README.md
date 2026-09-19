@@ -3,7 +3,8 @@
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br>
 <br>
-** *********"TA.ZIP" file has been prepared for you to test. The modified graphics in the game are clearly visible********* ** 
+** *********"TA.ZIP" file has been prepared for you to test. ((Working game files))********* ** <br> 
+**The modified graphics in the game are clearly visible** 
 <br>
 <br>
 
