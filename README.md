@@ -4,7 +4,8 @@
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br>
 <br>
 **■ ■ ■ "TA.ZIP" file has been prepared for you to TEST ((Working GAME files)) ■ ■ ■** <br> 
-**The modified graphics in the game are clearly visible** 
+***■ ■ ■ The text "ta2tga" has been added to the game for testing purposes ■ ■ ■*** <br>
+**The modified graphics in the game are clearly visible** <br>
 <br>
 <br>
 
