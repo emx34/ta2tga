@@ -9,5 +9,5 @@
 <img width="855" height="425" alt="hero_sprite_set" src="https://github.com/user-attachments/assets/1f06e0bf-c30d-457e-94d4-8d5edba7b696" />
 <br><br>
 **=== ■ ALL .LBM IMAGE FILES ===** <br>
-<img width="1291" height="499" alt="ALL LBMs" src="https://github.com/user-attachments/assets/90e9749d-803c-4a86-94d2-d49175719628" />
+<img width="1290" height="494" alt="ALL LBMs" src="https://github.com/user-attachments/assets/08562880-29e5-47e5-a000-6c8950f4033b" />
 ***The LBM to TGA converter is now ready; you can download the " lbm2tga " tool from the section with that title.***
