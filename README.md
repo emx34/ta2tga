@@ -3,6 +3,10 @@
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br>
 <br>
+**A "TA.ZIP" file has been prepared for you to test. The modified graphics in the game are clearly visible.** 
+<br>
+<br>
+
 # **NOT READY YET *** NOT RELEASED YET** 
 <img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" />
 
