@@ -7,8 +7,6 @@
 ***■ ■ ■ The text "ta2tga" has been added to the game for testing purposes ■ ■ ■*** <br>
 The modified graphics in the game are **clearly visible** + ***ALL graphics are open to modification*** 
 <br>
-<br>
-
 # **NOT READY YET *** NOT RELEASED YET** 
 <img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" /> <br>
 <br>
