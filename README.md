@@ -5,7 +5,7 @@
 <br>
 **■ ■ ■ "TA.ZIP" file has been prepared for you to TEST ((Working GAME files)) ■ ■ ■** <br> 
 ***■ ■ ■ The text "ta2tga" has been added to the game for testing purposes ■ ■ ■*** <br>
-The modified graphics in the game are **clearly visible** + ***ALL graphics are open to modification*** <br>
+The modified graphics in the game are **clearly visible** + ***ALL graphics are open to modification*** 
 <br>
 <br>
 
