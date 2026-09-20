@@ -22,6 +22,12 @@ The modified graphics in the game are **clearly visible** + ***ALL graphics are 
 <img width="1290" height="494" alt="ALL LBMs" src="https://github.com/user-attachments/assets/08562880-29e5-47e5-a000-6c8950f4033b" />
 ***The LBM to TGA converter is now ready; you can download the " lbm2tga " tool from the section with that title.***
 
-<video src="https://github.com/user-attachments/assets/33e1d827-e10e-466b-b47c-49122c6c49fc" controls width="100%"></video>
+<audio autoplay controls>
+  <source src="https://github.com/user-attachments/files/32431091/A2.mp3" type="audio/mpeg">
+  Tarayıcınız ses etiketini desteklemiyor.
+</audio>
+
+[A2.mp3](https://github.com/user-attachments/files/32431091/A2.mp3)
+
 
 
