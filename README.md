@@ -2,8 +2,8 @@
 ## **ta2tga --- images/sprites/background pictures to TGA(Photoshop) Converter** <br><br>
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br> <br>
-***You can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)***
-<br>
+***You can take the graphics from the game, modify them with Photoshop & then put them back in game without any issues, game is working :-)***
+<br> <br>
 **■ ■ ■ "TA.ZIP" file has been prepared for you to TEST ((Working GAME files)) ■ ■ ■** <br> 
 ***■ ■ ■ The text "ta2tga" has been added to the game for testing purposes ■ ■ ■*** <br>
 The modified graphics in the game are **clearly visible** + ***ALL graphics are open to modification*** 
