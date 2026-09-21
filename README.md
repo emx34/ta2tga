@@ -1,7 +1,7 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
 ## **ta2tga --- images/sprites/background pictures to TGA(Photoshop) Converter** <br><br>
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
-**An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br>
+**An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br> <br>
 ***You can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)***
 <br>
 **■ ■ ■ "TA.ZIP" file has been prepared for you to TEST ((Working GAME files)) ■ ■ ■** <br> 
