@@ -20,7 +20,7 @@ The modified graphics in the game are **clearly visible** + ***ALL graphics are 
 <img width="1811" height="947" alt="ta_editor_3" src="https://github.com/user-attachments/assets/aa6e1c60-0981-4291-8d16-0f7886c971bd" /> <br>
 <br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
-<img width="1920" height="1920" alt="MAP01_CRASH_LANDING_SITE" src="https://github.com/user-attachments/assets/d50bb726-994b-4d17-931a-34e98babbd95" /> <br>
+<img width="1920" height="1920" alt="MAP01_CRASH_LANDING_SITE" src="https://github.com/user-attachments/assets/d50bb726-994b-4d17-931a-34e98babbd95" /> 
 ***I prepared maps of all the levels like this, from start to finish***
 <br
 **=== ■ PLAYER 1 SPRITES ===** <br>
