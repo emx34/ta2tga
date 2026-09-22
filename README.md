@@ -21,7 +21,6 @@ The modified graphics in the game are **clearly visible** + ***ALL graphics are 
 <br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
 <img width="1920" height="1920" alt="MAP01_CRASH_LANDING_SITE" src="https://github.com/user-attachments/assets/d50bb726-994b-4d17-931a-34e98babbd95" /> <br>
-<br>
 ***I prepared maps of all the levels like this, from start to finish***
 <br
 **=== ■ PLAYER 1 SPRITES ===** <br>
