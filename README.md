@@ -1,5 +1,5 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
-## **(A) ta2tga --- images/sprites/background pictures to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** <br><br>
+## **(A) ta2tga --- images/sprites/background pictures to TGA(Photoshop) Converter <br> ■ Sprite <---> TGA <---> Sprite** <br><br>
 ## **(B) MAP EDITOR PROJECT** <br><br>
 
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
