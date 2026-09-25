@@ -17,7 +17,7 @@ The modified graphics in the game are **clearly visible** + ***ALL graphics are 
 <img width="1813" height="976" alt="LEVELSSS" src="https://github.com/user-attachments/assets/df32da6a-4e99-4da4-8faf-43e179f4b22b" /> <br>
 <br>
 **=== ■ MAP EDITOR PROJECT ===** ***NOT RELEASED, NOT COMPLETED*** <br>
-***Developments, developments... something is happening :-) It seems to be going well..*** <br>
+***developments... something good is happening :-) It seems to be going well..*** <br>
 <img width="1811" height="947" alt="ta_editor_3" src="https://github.com/user-attachments/assets/aa6e1c60-0981-4291-8d16-0f7886c971bd" /> <br>
 <br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
