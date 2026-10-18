@@ -8,7 +8,7 @@
 
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br> <br>
-***You can take the graphics from the game, modify them with Photoshop & then put them back in game without any issues, game is working :-)***
+***You can take the graphics from the game, modify them with Photoshop & then put them back in game without any issues :-)***
 <br>
 <br>
 **=== ■ TILES for ALL LEVELS ===** <br>
