@@ -1,5 +1,5 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
-## **(A) ■ TA2tga --- images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** <br><br>
+## **(A) ■ TA2tga --- images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** 
 ## **(B) ■ Epfext: (East Point Software) is a tool capable of UNPACKING & PACKING = TA.EPF (and all other .EPF files from other East Point Software games) game archive files.
 ## **(C) ■ MAP EDITOR PROJECT: An editor for modifying the maps in the game Alien Breed: Tower Assault (MS-DOS)** <br><br>
 # **NOT READY YET *** NOT RELEASED YET** 
