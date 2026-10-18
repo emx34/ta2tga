@@ -1,6 +1,7 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
-## **(A) ta2tga --- images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** <br><br>
-## **(B) MAP EDITOR PROJECT** <br><br>
+## **(A) ■ TA2tga --- images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** <br><br>
+## **(B) ■ Epfext: (East Point Software) is a tool capable of UNPACKING & PACKING Lionking.EPF (and all other .EPF files from other East Point Software games) game archive files.
+## **(C) ■ MAP EDITOR PROJECT** <br><br>
 
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br> <br>
