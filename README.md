@@ -1,13 +1,13 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
 ## **■ TA2tga --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ in-game-GFX <---> TGA <---> in-game-GFX**
-## **■ EPFext --- (East Point Software) is a tool capable of UNPACKING & PACKING = TA.EPF game archive files(and all other .EPF files from other East Point Software games).**
+## **■ EPFext2 --- (East Point Software) is a tool capable of UNPACKING & PACKING = TA.EPF game archive files(and all other .EPF files from other East Point Software games).**
 ## **■ TA Map Editor Project --- An editor for modifying the maps in the game Alien Breed: Tower Assault (MS-DOS)** <br>
 # **NOT RELEASED YET** 
 <img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" /> <br>
 
 
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
-**The TA.EPF Archive UNPACKER/PACKER tool is ready for use. (EPFext.zip)** <br>
+**The TA.EPF Archive UNPACKER/PACKER tool is ready for use. (EPFext2.zip)** <br>
 ***You can take the graphics from the game, modify them with Photoshop & then put them back in game without any issues..***
 <br>
 <br>
