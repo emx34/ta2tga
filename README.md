@@ -16,7 +16,7 @@
 <br>
 **=== ■ MAP EDITOR PROJECT ===** ***NOT RELEASED YET*** <br>
 ***Developments.. It seems to be going well but slowly..*** <br>
-<img width="1918" height="1034" alt="MAP_ED1" src="https://github.com/user-attachments/assets/4bb448ae-5493-45cd-a2d2-81dfb5c615ea" />
+<img width="1897" height="1017" alt="Alien_Screen_1" src="https://github.com/user-attachments/assets/ba68e710-2c9a-4da8-8b2e-ab982932c983" />
 <br>
 <br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
