@@ -2,6 +2,9 @@
 ## **(A) ■ TA2tga --- images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ Sprite <---> TGA <---> Sprite** <br><br>
 ## **(B) ■ Epfext: (East Point Software) is a tool capable of UNPACKING & PACKING Lionking.EPF (and all other .EPF files from other East Point Software games) game archive files.
 ## **(C) ■ MAP EDITOR PROJECT: An editor for modifying the maps in the game Alien Breed: Tower Assault (MS-DOS)** <br><br>
+# **NOT READY YET *** NOT RELEASED YET** 
+<img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" /> <br>
+
 
 **All images, sprites, and background tiles are embedded within the TA.EPF archive file.** <br>
 **An extractor for MS-DOS is being prepared for this archive file (epfext.zip)** <br> <br>
@@ -11,8 +14,6 @@
 ***■ ■ ■ The text "ta2tga" has been added to the game for testing purposes ■ ■ ■*** <br>
 The modified graphics in the game are **clearly visible** + ***ALL graphics are open to modification*** 
 <br>
-# **NOT READY YET *** NOT RELEASED YET** 
-<img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" /> <br>
 <br>
 **=== ■ TILES for ALL LEVELS ===** <br>
 <img width="1813" height="976" alt="LEVELSSS" src="https://github.com/user-attachments/assets/df32da6a-4e99-4da4-8faf-43e179f4b22b" /> <br>
