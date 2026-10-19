@@ -15,7 +15,7 @@
 <img width="1813" height="976" alt="LEVELSSS" src="https://github.com/user-attachments/assets/df32da6a-4e99-4da4-8faf-43e179f4b22b" /> <br>
 <br>
 **=== ■ MAP EDITOR PROJECT ===** ***NOT RELEASED YET*** <br>
-***Developments.. It seems to be going well but slowly..*** <br>
+***Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! And I’m doing this for free :-)*** <br>
 <img width="1897" height="1017" alt="Alien_Screen_1" src="https://github.com/user-attachments/assets/ba68e710-2c9a-4da8-8b2e-ab982932c983" />
 <br>
 <br>
