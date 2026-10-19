@@ -2,7 +2,7 @@
 ## **■ TA2tga --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ in-game-GFX <---> TGA <---> in-game-GFX**
 ## **■ EPFext2 --- (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = TA.EPF game archive file(and all other .EPF files from other East Point Software games). * Windows command-line ULTRA-Fast version**
 ## **■ TA Map Editor Project --- An editor for modifying the maps in the game Alien Breed: Tower Assault (MS-DOS)** <br>
-# **NOT RELEASED YET.. I am working on it, AlienBreed is no ordinary work** 
+# **NOT RELEASED YET..I'm working on it, AlienBreed is no ordinary work** 
 <img width="1368" height="842" alt="abta_4" src="https://github.com/user-attachments/assets/0507528f-d6e4-4126-9925-d8a3883e6d90" /> <br>
 
 
