@@ -17,10 +17,6 @@
 <img width="1396" height="974" alt="Alien_ta" src="https://github.com/user-attachments/assets/e33e9c44-0899-46ee-8029-b140a0f5b27d" />
 <br>
 <br>
-**=== ■ TILES for ALL LEVELS ===** <br>
-<img width="1813" height="976" alt="LEVELSSS" src="https://github.com/user-attachments/assets/df32da6a-4e99-4da4-8faf-43e179f4b22b" /> <br>
-<br>
-<br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
 <img width="1920" height="1920" alt="MAP01_CRASH_LANDING_SITE" src="https://github.com/user-attachments/assets/d50bb726-994b-4d17-931a-34e98babbd95" /> 
 ***I prepared maps of all the levels like this, from start to finish***
