@@ -13,7 +13,7 @@
 <br>
 
 **=== ■ MAP EDITOR PROJECT ===** ***NOT RELEASED YET*** <br>
-***Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! And I’m doing this for free :-) Even AI CAN'T decipher or immediately make sense of these tile-based images; therefore, manually interpreting the tiles and piecing them together is a process akin to picking the tiny bones out of a fish, one by one. This is a task that really takes a lot of time—much like doing embroidery or sewing! It’s a bit of a "madman’s" undertaking—a sensible person wouldn’t bother with this—but I volunteered for it.*** <br>
+***Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! And I’m doing this for free :-) Even AI CAN'T decipher or immediately make sense of these tile-based images; therefore, manually interpreting the tiles and piecing them together is a process akin to picking the tiny bones out of a fish, one by one. This is a task that really takes a lot of time—much like doing embroidery or sewing!*** <br>
 <img width="1396" height="974" alt="Alien_ta" src="https://github.com/user-attachments/assets/e33e9c44-0899-46ee-8029-b140a0f5b27d" />
 <br>
 <br>
