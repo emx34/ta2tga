@@ -12,7 +12,7 @@
 <br>
 <br>
 
-**=== ■ MAP EDITOR PROJECT ===** <br><br>
+**=== ■ MAP EDITOR PROJECT ===** <br>
 ***The "logic" behind the editor project has become increasingly complex, leading me to seek help from professional programmer friends. One of these friends has expressed interest in purchasing the project, and as a result, the MAP Editor project has begun to shift toward a semi-commercial direction. Work on the editor began a month ago, and it has since undergone numerous bug fixes, updates, and the addition of new code—a process that is still ongoing. This has made the project quite intricate, with new requirements and code updates emerging from various areas, alongside the fixes I apply whenever I discover issues in older parts of the codebase. Given the complexity and the fact that I am now receiving external assistance, the project has started to lean toward a semi-commercial nature; consequently, I am considering accepting my friend's offer to purchase the MAP Editor project.***
 <img width="1123" height="917" alt="aaa" src="https://github.com/user-attachments/assets/00bf6405-572f-4d74-b4fb-7cba917016bf" />
 <br>
