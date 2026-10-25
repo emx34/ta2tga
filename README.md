@@ -12,7 +12,9 @@
 <br>
 <br>
 
-**=== ■ MAP EDITOR PROJECT ===** <br>
+**=== ■ MAP EDITOR PROJECT ===** <br><br>
+***The "logic" behind the editor project has become increasingly complex, leading me to seek help from professional programmer friends. One of these friends has expressed interest in purchasing the project, and as a result, the MAP Editor project has begun to shift toward a semi-commercial direction. Work on the editor began a month ago, and it has since undergone numerous bug fixes, updates, and the addition of new code—a process that is still ongoing. This has made the project quite intricate, with new requirements and code updates emerging from various areas, alongside the fixes I apply whenever I discover issues in older parts of the codebase. Given the complexity and the fact that I am now receiving external assistance, the project has started to lean toward a semi-commercial nature; consequently, I am considering accepting my friend's offer to purchase the MAP Editor project.***
+<br> <br>
 ***Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! And I’m doing this for free :-) Even AI CAN'T decipher or immediately make sense of these tile-based images; therefore, manually interpreting the tiles and piecing them together is a process akin to picking the tiny bones out of a fish, one by one. This is a task that really takes a lot of time—much like doing embroidery or sewing!*** <br>
 <img width="1396" height="974" alt="Alien_ta" src="https://github.com/user-attachments/assets/e33e9c44-0899-46ee-8029-b140a0f5b27d" />
 <br>
