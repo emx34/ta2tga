@@ -18,7 +18,7 @@
 <br>
 
 **=== ■ MAP EDITOR PROJECT ===** <br>
-<img width="1648" height="1324" alt="tamap" src="https://github.com/user-attachments/assets/612263cc-5c68-4952-85ad-8b8ff6c33707" />
+<img width="1648" height="1324" alt="tamap" src="https://github.com/user-attachments/assets/240e7f41-ec3e-4595-ba55-4c33642c0acc" />
 
 ***As the program code grew more complex, the amateur project gradually began to evolve into a professional one, and things are becoming complicated. 
 Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! 
