@@ -38,7 +38,9 @@ This is a task that really takes a lot of time—much like doing embroidery or s
 **=== ■ ALL .LBM IMAGE FILES ===** <br>
 <img width="1290" height="494" alt="ALL LBMs" src="https://github.com/user-attachments/assets/08562880-29e5-47e5-a000-6c8950f4033b" /> <br>
 ***The LBM to TGA converter is now ready; you can download the " lbm2tga " tool from = https://github.com/emx34/lbm2tga***
-<br> <br>
+<br> 
+<br>
+
 ___ **Contact:** https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34 <br>
 
 <br>
