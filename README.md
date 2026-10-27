@@ -11,7 +11,7 @@
 ***You can take the graphics from the game, modify them with Photoshop & then put them back in game without any issues..***
 <br>
 <br>
-**EPFext2 is a tool capable of UNPACKING & PACKING Lionking.EPF archive. (2.0 ULTRA FAST version)** <br>
+**EPFext2 is a tool capable of UNPACKING & PACKING TA.EPF archive. (2.0 ULTRA FAST version)** <br>
 
 <img width="665" height="239" alt="epfext" src="https://github.com/user-attachments/assets/3430d292-5b4a-43b3-9a7c-a86b61e0b82e" />
 <br>
