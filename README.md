@@ -4,7 +4,7 @@
 <br>
 
 **Alien Breed Tower Assault - Windows Port, native exe (initial test version): the opening sequence leading up to the menu..**
-**The main menu background image has been updated, and the menu music has been replaced with the classic "Alien Breed I" track(SoundMon player added to the game code).**
+**The main menu background image has been updated, and the menu music has been replaced with the classic "Alien Breed I" soundtrack(Amiga SoundMon-player code added to the game code).**
 
 https://github.com/user-attachments/assets/4340386a-cb65-4a3d-ae75-20e914d2bdc2
 
