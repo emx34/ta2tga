@@ -2,10 +2,8 @@
 ## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..The original Alien Breed 1 music will play in the main menu**
 <br>
 <br>
+
 **Alien Breed Tower Assault - Windows Port, native exe (initial test version): the opening sequence leading up to the menu..**
-
-
-
 https://github.com/user-attachments/assets/4340386a-cb65-4a3d-ae75-20e914d2bdc2
 
 
