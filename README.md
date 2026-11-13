@@ -1,12 +1,5 @@
 # Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
 ## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..The original Alien Breed 1 music will play in the main menu**
-<br>
-<br>
-
-**Alien Breed Tower Assault - Windows Port, native exe (initial test version): the opening sequence leading up to the menu..**
-**The main menu background image has been updated, and the menu music has been replaced with the classic "Alien Breed I" soundtrack(Amiga SoundMon-player code added to the game code).**
-
-https://github.com/user-attachments/assets/4340386a-cb65-4a3d-ae75-20e914d2bdc2
 
 ## **■ TA2TGA --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ in-game-GFX <---> TGA <---> in-game-GFX**
 ## **■ EPFext2 --- (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = TA.EPF game archive file(and all other .EPF files from other East Point Software games). Windows Command-Line ULTRA-Fast version**
