@@ -1,4 +1,4 @@
-# Alien Breed: Tower Assault (Msdos) <br> --- GFX Reverse Engineering project
+# Alien Breed: Tower Assault (Msdos) <br> --- Reverse Engineering project (GFX + Windows port native exe)
 ## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..The original Alien Breed 1 music will play in the main menu**
 
 ## **■ TA2TGA --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ in-game-GFX <---> TGA <---> in-game-GFX**
