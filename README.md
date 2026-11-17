@@ -3,7 +3,7 @@
 
 
 https://github.com/user-attachments/assets/9b1dfb7b-8e7a-4fe9-95f7-e64a3713ec19
-## ***<ins>Alpha developer-test version</ins> = NOT READY YET !!! NOT RELEASED YET.***
+## ***<ins>α Alpha developer-test version</ins> = NOT READY YET !!! NOT RELEASED YET.***
 
 <br>
 <br>
