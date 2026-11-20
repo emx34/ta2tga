@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
 
 ## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..<ins>The original Alien Breed 1 music</ins> will play in the main-menu(Amiga SoundMon format - module player)**
 
-## **■ TA2TGA --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter ■ in-game-GFX <---> TGA <---> in-game-GFX ■ The TA2TGA tool was never released; instead, it evolved into a reverse engineering project (a native PC port for Windows), which is how it continues today.**
+## **■ TA2TGA --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter .. in-game-GFX <---> TGA <---> in-game-GFX ■ The TA2TGA tool was never released; instead, it evolved into a reverse engineering project (a native PC port for Windows), which is how it continues today.**
 ## **■ EPFext2 --- (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = TA.EPF game archive file(and all other .EPF files from other East Point Software games). Windows Command-Line ULTRA-Fast version**
 ## **■ TA Map Editor Project --- An editor for modifying the maps in the game Alien Breed: Tower Assault (MS-DOS) ! <ins>***??? FREE project may be cancelled & transformed into a private, semi-commercial project ?! detailed information is provided below ..***</ins>** <br>
 # **I'm working on AlienBreed is no ordinary work (especially the MAP editor project)** 
