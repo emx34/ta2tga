@@ -33,10 +33,9 @@ https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
 Developments.. It seems to be going well but slowly.. Arranging/ordering the tile images in the left-hand tile menu in a meaningful way is an absolute NIGHTMARE! 
 And I’m doing this for free :-) Even AI CAN'T decipher or immediately make sense of these tile-based images; therefore, 
 manually interpreting the tiles and piecing them together is a process akin to picking the tiny bones out of a fish, one by one. 
-This is a task that really takes a lot of time—much like doing embroidery or sewing!*** <br>
+This is a task that really takes a lot of time—much like doing embroidery or sewing!*** 
+<br>
 
-<br>
-<br>
 ***FIRST LEVEL MAP ■ BEGINNING: CRASH LANDING SITE***
 <img width="1920" height="1920" alt="MAP01_CRASH_LANDING_SITE" src="https://github.com/user-attachments/assets/d50bb726-994b-4d17-931a-34e98babbd95" /> 
 
