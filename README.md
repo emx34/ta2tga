@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/1931288d-4f1c-4504-879c-2ab411e8555b
 
+# >>> Code development and bug fixes are ongoing.. 
+
 https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
 
 ## ***<ins>Alpha developer-test version</ins> = NOT READY ! NOT RELEASED.***
