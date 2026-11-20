@@ -2,7 +2,8 @@
 
 https://github.com/user-attachments/assets/1931288d-4f1c-4504-879c-2ab411e8555b
 
-# >>> Code development and bug fixes are ongoing.. 
+# █ Code development and bugfixes continue.. a lot of updates and a lot of bugfixes need to be done, there is a lot of work.. it will take time
+
 
 https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
 
