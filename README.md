@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
 
 <img width="1114" height="715" alt="widescreen" src="https://github.com/user-attachments/assets/0b3f8706-a099-4957-96f2-45ddc79f0b27" />
 
-## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..<ins>The original Alien Breed 1 music</ins> will play in the main-menu(Amiga SoundMon format - module player) --- The_Entire_Project is being developed using: Microsoft Visual C++**
+## **■ ■ ■ (!) I have begun working on a <ins>native Windows executable port of *Alien Breed: Tower Assault*</ins> ! This will be my 2nd major project, following *Doofus*(that fantastic platformer originally for MS-DOS). I am currently examining every fine detail of the game..<ins>The original Alien Breed 1 music</ins> will play in the main-menu(Amiga SoundMon format - module player) --- The_Entire_Project continues to be developed using: Microsoft Visual C++** 
 
 ## **■ TA2TGA --- Game images/sprites/background pictures <br>to TGA(Photoshop) Converter .. in-game-GFX <---> TGA <---> in-game-GFX ■ The TA2TGA tool was never released; instead, it evolved into a reverse engineering project (a native PC port for Windows), which is how it continues today.**
 ## **■ EPFext2 --- (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = TA.EPF game archive file(and all other .EPF files from other East Point Software games). Windows Command-Line ULTRA-Fast version**
