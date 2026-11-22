@@ -1,5 +1,4 @@
-# Alien Breed: Tower Assault (Msdos) <br> █ Reverse Engineering project (native PC port for Windows) --- The_Entire_Project is being developed using: Microsoft Visual C++ (MSVC) 
-
+# Alien Breed: Tower Assault (Msdos) <br> █ Reverse Engineering project (native PC port for Windows) --- The_Entire_Project is being developed using: Microsoft Visual C++
 https://github.com/user-attachments/assets/1931288d-4f1c-4504-879c-2ab411e8555b
 
 # █ Code development and bugfixes continue.. a lot of updates and a lot of bugfixes need to be done, there is a lot of work.. it will take time
