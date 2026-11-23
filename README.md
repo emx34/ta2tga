@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/10c41c20-2909-4458-9d1e-8b91876646fc
 
-# █ Code development and bugfixes continue.. a lot of updates and a lot of bugfixes need to be done, there is a lot of work.. it will take time
+# █ Code development and bugfixes continue.. a lot of updates & a lot of bugfixes need to be done, there is a lot of work.. it will take time
 
 ## ***<ins>Alpha developer-test , latest version: A2</ins> = NOT READY ! NOT RELEASED.***
 
