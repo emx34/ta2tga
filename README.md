@@ -4,8 +4,6 @@ https://github.com/user-attachments/assets/10c41c20-2909-4458-9d1e-8b91876646fc
 
 # █ Code development and bugfixes continue.. a lot of updates and a lot of bugfixes need to be done, there is a lot of work.. it will take time
 
-https://github.com/user-attachments/assets/20e30582-e3ed-42b4-ae75-3511b44d9b39
-
 ## ***<ins>Alpha developer-test , latest version: A2</ins> = NOT READY ! NOT RELEASED.***
 
 <img width="1114" height="715" alt="widescreen" src="https://github.com/user-attachments/assets/0b3f8706-a099-4957-96f2-45ddc79f0b27" />
